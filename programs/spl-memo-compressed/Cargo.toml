@@ -19,8 +19,3 @@ default = []
 anchor-lang = "0.29.0"
 spl-memo = { version = "4.0.0", features = ["no-entrypoint"] }
 solana-program = "1.17"
-light-system-program = { git = "https://github.com/Lightprotocol/light-protocol.git", tag = "v.1.0.0", version = "1.0.0", features = ["no-entrypoint"] }
-light-hasher = { git = "https://github.com/Lightprotocol/light-protocol.git", tag = "v.1.0.0", version = "1.0.0" }
-light-sdk = { git = "https://github.com/Lightprotocol/light-protocol.git", tag = "v.1.0.0", version = "0.8.0" }
-@lightprotocol/stateless = { git = "https://github.com/lightprotocol/stateless.js.git" }
-@lightprotocol/compressed-token = { git = "https://github.com/lightprotocol/compressed-token.git" }
